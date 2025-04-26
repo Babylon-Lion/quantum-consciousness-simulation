@@ -76,7 +76,7 @@ You can similarly run the 50D and 100D simulations.
 
 If you use this code or reference the methodology, please cite:
 
-> Aymen Salim Yaseen, *Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems* (2024). GitHub repository: [https://github.com/yourusername/quantum-consciousness-simulation](https://github.com/yourusername/quantum-consciousness-simulation)
+> Aymen Salim Yaseen, *Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems* (2024). GitHub repository: [https://github.com/yourusername/quantum-consciousness-simulation](https://github.com/Babylon-Lion/quantum-consciousness-simulation)
 
 (Replace `yourusername` with your actual GitHub username.)
 
