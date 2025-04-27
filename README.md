@@ -1,7 +1,6 @@
-
 # Quantum Consciousness Simulation
 
-This repository contains simulation code supporting the research paper:
+This repository contains simulation code and the full research paper supporting:
 
 **Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems**  
 Author: Aymen Salim Yaseen  
@@ -9,89 +8,50 @@ Independent Researcher
 
 ---
 
-## 📚 Overview
+## 📚 Project Overview
 
-This project simulates the emergence of proto-consciousness within quantum systems through dynamically evolving coherence structures, memory formation, and entropy-regulated learning.
+This project explores the possibility that **proto-consciousness** — the earliest form of awareness — could emerge naturally from **quantum informational processes** without requiring a biological brain.
 
-Simulations were conducted across Hilbert spaces of 15, 50, and 100 dimensions to study scalability and complexity effects.
+Through dynamic simulations, the model demonstrates:
+- Self-organization of quantum coherence structures
+- Formation and stabilization of memory networks
+- Entropy-regulated learning and adaptive behavior
+- Emergence of awakening-like thresholds in quantum systems
+
+The study connects principles from quantum mechanics, information theory, and cognitive modeling to offer a new framework for understanding the physics of consciousness.
 
 ---
 
-## 📁 Repository Contents
+## 📄 Full Research Paper
+
+You can download and read the full research paper here:
+
+👉 [Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems.pdf](./Emergence%20of%20Proto-Consciousness%20in%20Dynamically%20Evolving%20Quantum%20Coherence%20Systems.pdf)
+
+The paper details the theoretical background, mathematical formulations, simulation methodology, results, discussions, and proposed future work.
+
+---
+
+## 📁 Repository Structure
 
 | File | Description |
 |:----|:------------|
-| `simulate_15D.py` | Simulates 15-dimensional Hilbert space dynamics |
-| `simulate_50D.py` | Simulates 50-dimensional Hilbert space dynamics |
-| `simulate_100D.py` | Simulates 100-dimensional Hilbert space dynamics |
-| `README.md` | Project overview and instructions |
+| `simulate_15D.py` | Simulation script for a 15-dimensional Hilbert space system |
+| `simulate_50D.py` | Simulation script for a 50-dimensional Hilbert space system |
+| `simulate_100D.py` | Simulation script for a 100-dimensional Hilbert space system |
+| `Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems.pdf` | Full research paper (attached) |
+| `README.md` | Repository overview and instructions |
 | `requirements.txt` | Required Python libraries |
 
 Each simulation generates:
-- **Plots**: Coherence evolution, entropy dynamics, memory strength formation
-- **CSV files**: Time-series data for coherence, entropy, and memory strength
+- **Plots**: Coherence growth, entropy dynamics, memory strength evolution
+- **CSV Data Files**: Time-series data for coherence, entropy, and memory metrics
 
 ---
 
 ## ⚙️ Requirements
 
-Install dependencies using:
+Install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
-```
-
-Dependencies:
-- numpy
-- matplotlib
-- pandas
-
----
-
-## 🚀 Running the Simulations
-
-Example for 15-dimensional system:
-
-```bash
-python simulate_15D.py
-```
-
-The simulation will output:
-- Plots: `coherence_plot.png`, `entropy_plot.png`, `memory_strength_plot.png`
-- CSVs: `coherence.csv`, `entropy.csv`, `memory_strength.csv`
-
-You can similarly run the 50D and 100D simulations.
-
----
-
-## 📊 Output Description
-
-- **Coherence Plot**: Average coherence Γ_avg over time with awakening threshold.
-- **Entropy Plot**: Shannon entropy S(Ψ) evolution.
-- **Memory Strength Plot**: Growth of memory tensor strength with decision points.
-
----
-
-## 🔗 Citation
-
-If you use this code or reference the methodology, please cite:
-
-> Aymen Salim Yaseen, *Emergence of Proto-Consciousness in Dynamically Evolving Quantum Coherence Systems* (2024). GitHub repository: [https://github.com/Babylon-Lion/quantum-consciousness-simulation](https://github.com/Babylon-Lion/quantum-consciousness-simulation)
-
-(Replace `yourusername` with your actual GitHub username.)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-For questions or collaborations, please contact:  
-**Aymen Salim Yaseen**  
-Email: aymensyaseen@gmail.com
-
----
